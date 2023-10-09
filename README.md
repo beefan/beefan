@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beefan
-- 💎 I’m a Ruby on Rails dev, but I really like playing around with Vue.js 
+- 💎 I’m a Laravel and Vue.js dev
 - 💞️ I’m looking to collaborate on something more absurdist than functional. 
 
 <!---
