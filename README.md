@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beefan
 - 💎 I’m a Laravel and Vue.js dev
-- 💞️ I’m looking to collaborate on something more absurdist than functional. 
+- 🤖 These days its all AI, isn't it?
 
 <!---
 beefan/beefan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
