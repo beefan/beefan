@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @beefan
-- 💎 I’m a Laravel and Vue.js dev
 - 🤖 These days its all AI, isn't it?
 
 <!---
